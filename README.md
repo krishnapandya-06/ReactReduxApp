@@ -54,7 +54,7 @@ Folder Structure
 ├── src
 │   ├── components
 │   │   ├── AuthPage.jsx
-│   │   ├── Counter.jsx
+│   │   ├── Counter.jsx  
 │   │   ├── Todo.jsx
 │   ├── store
 │   │   ├── slices
